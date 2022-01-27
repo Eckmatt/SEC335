@@ -5,6 +5,7 @@
 
 ### Other Notes
 * [Notes](notes.md)
+* [Passive Recon](passive-recon.md)
 
 ### Important Links
 
