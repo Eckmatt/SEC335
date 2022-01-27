@@ -4,6 +4,7 @@
 * [Week 1](week1.md)
 
 ### Other Notes
+* [Notes](notes.md)
 
 ### Important Links
 
