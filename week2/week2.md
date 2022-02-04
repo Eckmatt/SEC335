@@ -10,7 +10,7 @@ ran into - it took me about an hour to realize that `"$?"` needed those double q
 Once I had solved that ping debacle, I found that nmap and fping were infinitely more
 easier to use for these purposes then ping was in the first place, which is great to know.
 
-####Activity 2.1 Files:
+#### Activity 2.1 Files:
 
 ##### Scripts
 * [week2.sh](week2.sh)
