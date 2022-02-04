@@ -24,6 +24,8 @@ easier to use for these purposes then ping was in the first place, which is grea
 
 ### Lab 2.1 - Port Scanning 1
 
+* [portscanner.sh](portscanner.sh)
+
 
 ### Lab 2.2 - Port Scanning 2
 
