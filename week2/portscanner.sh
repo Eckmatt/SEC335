@@ -13,7 +13,7 @@ function error_exit
 
 hostfile=$1
 portfile=$2
-if [ "${hostfile}"="" || "${portfile}"="" ]
+if [ "${hostfile}" = "" ] || [ "${portfile}" = "" ]
 then
   error_exit "Make sure you hav both a host and port target file."
 fi
