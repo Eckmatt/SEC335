@@ -1,4 +1,3 @@
-# Nmap 7.92 scan initiated Thu Feb 10 18:49:43 2022 as: nmap -Pn -p 53 --open -oG dns-servers.txt 10.0.5.0/24
-Host: 10.0.5.22 ()	Status: Up
-Host: 10.0.5.22 ()	Ports: 53/open/tcp//domain///
-# Nmap done at Thu Feb 10 18:49:50 2022 -- 256 IP addresses (256 hosts up) scanned in 6.68 seconds
+version https://git-lfs.github.com/spec/v1
+oid sha256:a96a1d63c5574443a70e5a651a46ef8b217dffac2b98565f563146705d491d13
+size 288
