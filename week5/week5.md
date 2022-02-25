@@ -16,3 +16,14 @@ members of the shire, which then allowed me to login and access the "secret" web
 
 ### Reflection
 I ended up running out of time to complete the ssh part of this assignment, as I fell behind on work this week. However, the rest of the lab was interesting and taught me a lot. I really had to sit down and test every possible different word that could have been made into a password, and that instilled in me a lesson to really think things over, and really focus on everything that could become a potential password.
+
+### Assignment 5.1 Sign In Hack
+This was a really cool assignment, and an interesting way to break into a system. It makes me wonder if something like this is possible for other linux distributions.
+Steps for Kali Linux Sign-in Hack
+[1]. Restart Kali Box
+[2]. On boot up screen, move cursor over default option and press `e`
+[3]. edit line that ends in `splash` with `start init=/bin/bash`
+[4]. mount the root directory using `mount -rw -o remount /`
+[5]. change the root password using `passwd`
+[6]. run `sync` and `umount /`
+[7]. power cycle the kali box
