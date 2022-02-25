@@ -12,3 +12,7 @@ members of the shire, which then allowed me to login and access the "secret" web
 
 ### Useful Documents
 [Notes](/notes.md)
+
+
+### Reflection
+I ended up running out of time to complete the ssh part of this assignment, as I fell behind on work this week. However, the rest of the lab was interesting and taught me a lot. I really had to sit down and test every possible different word that could have been made into a password, and that instilled in me a lesson to really think things over, and really focus on everything that could become a potential password.
