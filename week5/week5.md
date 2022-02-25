@@ -11,4 +11,4 @@ which prompted me to mangle another 5 or so words (as that was the longest list 
 members of the shire, which then allowed me to login and access the "secret" webpage using `hydra` to determine the exact password. 
 
 ### Useful Documents
-
+[Notes](/notes.md)
