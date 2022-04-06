@@ -44,7 +44,7 @@ This section I had a difficult time with. This deliverable is to install and set
 * `commit
 * `save
 * `exit
-` Once this is done, return to the kali box and create a [wg0.conf.wack](wg0.conf) file in /etc/wireguard. Use the linked file as a template. Once completed, you should have a working wireguard connection on wg0. Use `sudo wg-quick up wg0` to enable the connection and you should be able to ssh to the centos box from Kali, although I was unable to do so. I'm not sure exactly what causes this issue.
+` Once this is done, return to the kali box and create a [wg0.conf](wg0.conf.wack) file in /etc/wireguard. Use the linked file as a template. Once completed, you should have a working wireguard connection on wg0. Use `sudo wg-quick up wg0` to enable the connection and you should be able to ssh to the centos box from Kali, although I was unable to do so. I'm not sure exactly what causes this issue.
 
 
 ### Reflection
