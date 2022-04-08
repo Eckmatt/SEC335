@@ -15,5 +15,5 @@ At first, the video confused me a bit because I for some reason tried to use ftp
 #### Lab 8.2: Reverse Shells
 This lab was all about setting up reverse shells. Reverse shells are all about initiating a connection from the target to the attacker, and doing this requires some setup. Usually it requires us to install a "backdoor", which is either a program script, or a long string of code to be executed hot off the command line. Reverse shell scripts require some form of "throwing" a shell at the attacker so said attacker can "catch" it. We used this attack against rocky, pippin, my windows machine, and then rocky again, using php, cmd, and python reverse shell setups. The easiest way I found to turn off Windows Defender was to go into windows defender settings, go into virus and threat detection, and then turn off real time protection. This allowed me to execute the cmd reverse shell after staring at the code I copied for maybe 10 minutes it worked perfectly.
 
-Python Shells: [here](https://github.com/Eckmatt/SEC335/edit/main/week8)
-Reference for Python Shells: [here](https://www.thepythoncode.com/article/create-reverse-shell-python)
+* Python Shells: [here](https://github.com/Eckmatt/SEC335/edit/main/week8)
+* Reference for Python Shells: [here](https://www.thepythoncode.com/article/create-reverse-shell-python)
