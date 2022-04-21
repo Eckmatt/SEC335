@@ -8,7 +8,7 @@ do with the information available on the site. I wasn't able to affect much, alt
 out, there was an additional page that I originally couldn't access - a php page called 'view_enrollee'. Using SQLmap on this page showed me that there were 15 entries
 on the page, allowing me to execute the following SQL injection:
 
-[image]
+![image](sql.png)
 
 
 This gave me a hash of the admin's actual password. I plugged this into hashcat and hashcat came back with the decrypted password. Once I obtained that, I was
