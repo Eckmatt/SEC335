@@ -18,4 +18,5 @@ able to rdp into the box as the Administrator.
 #### Reflection
 I struggled a lot in this lab - I wouldn't have found the key places to inject sql if it wasn't for talking to classmates about how I was stuck. I feel like
 there was an SQL class that I missed during my time here as a student - I don't really understand the language after all the times I've used it. Perhaps I'll
-have to spend additional time just learning it.
+have to spend additional time just learning it. I think the system administrator should probably get hip to SQL injection - once I found the proper places to 
+perform it, I got exactly what I needed. Finding a way to sanitize the user input is ESSENTIAL for this kind of stuff
